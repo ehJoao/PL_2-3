@@ -1,0 +1,30 @@
+header{text-align: center;}
+header{margin: 20px;}
+header{background-color: bisque;}
+header>img{height:50%;}
+
+
+
+nav a{color: white;}
+nav{background-color: grey; padding: 5px; margin: 10px;}
+nav > img{height: 20px;}
+
+/*fundo*/
+
+body{background-color: bisque;}
+
+
+
+footer{background-color: grey; padding: 5px; margin: 10px;}
+footer{text-align: center;}
+/*cursor*/
+a {
+    cursor: url(/cursor/cursorpepper2.png), auto;
+}
+
+p{text-align: justify;}
+
+body{
+    cursor: url(/cursor/cursorpepper1.png), auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
